@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoAI</string>
+    <string name="text_users">Users</string>
+    <string name="text_users_detail">User details</string>
+    <string name="text_userid">User id : %1$s</string>
+    <string name="text_title">Title : %1$s</string>
+</resources>
